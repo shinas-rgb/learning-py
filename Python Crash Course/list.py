@@ -35,4 +35,4 @@ popped_name = names.pop(0)
 print(popped_name)
 
 names.remove("neymar") # removing by value
-print(names)
+print(names) 
