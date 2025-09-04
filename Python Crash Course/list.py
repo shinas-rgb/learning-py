@@ -36,3 +36,8 @@ print(popped_name)
 
 names.remove("neymar") # removing by value
 print(names) 
+
+# Sorting
+
+names.sort()
+print(names)
