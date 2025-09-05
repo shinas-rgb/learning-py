@@ -1,0 +1,1 @@
+(len(letters) - 1) + (shift_code - 1)
